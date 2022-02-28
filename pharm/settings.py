@@ -29,7 +29,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ['pharmacymanage.herokuapp.com']
 ALLOWED_HOSTS = [
-    'pharmacy-management-system2.herokuapp.com',
+    'sas-pharmacy.herokuapp.com',
     '127.0.0.1'
 ]
 
